@@ -1,18 +1,18 @@
-# Old Vintage 프로젝트
-- 시연영상 : https://www.youtube.com/watch?v=ZKLUUm3uvxg
-- 와인 판매 및 추천 사이트 <a href="https://www.vivino.com/">비비노</a> 홈페이지의 컨셉과 비슷하게 아예 처음부터 구축해본 사이트
-- 프론트엔드 깃헙 주소 : https://github.com/wecode-bootcamp-korea/31-1st-Wesop-frontend
-- 백엔드 깃헙 주소 : https://github.com/wecode-bootcamp-korea/31-2nd-OldVintage-backend
+# Old Vintage Project
+- 와인 판매 및 추천 사이트 <a href="https://www.vivino.com/">Vivino</a> 홈페이지의 컨셉과 비슷하게 제로베이스부터 구축해본 사이트
+- 구현 시연 영상 : [https://www.youtube.com/watch?v=ZKLUUm3uvxg](https://youtu.be/2ba5S6P-p7s)
+- Front-End GitHub Repository : https://github.com/wecode-bootcamp-korea/31-1st-Wesop-frontend
+- Back-End GitHub Repository : https://github.com/wecode-bootcamp-korea/31-2nd-OldVintage-backend
 
 ## 개발 기간 및 인원
-- 개발 기간 : 2022년 4월 11일 ~ 2022년 4월 21일 (11일)
+- 개발 기간 : 2022. 4. 11. - 2022. 4. 21.
 - 개발 인원 : 프론트엔드 3명 - 윤재웅, 전지현, 김민수 /
             백엔드 2명 - 박광수(PM), 박지훈
 
-## 사용기술
-- Front-End : React.js, React Library Material UI, React Slick, Styled-Components ,react-infinite-scroll-component ,React Router
+## 사용기술 스택
+- Front-End : React.js, React Library Material UI, React Slick, Styled-Components, react-infinite-scroll-component, React Router
 - Back-End : Python, Django, Mysql, AWS(EC2, RDS, S3), boto3
-- 협업 툴 : Git, Trello, Slack, Google Spreadsheet
+- 협업 툴 : GitHub, Trello, Slack
 
 ## 구현 기능
 - 메인페이지 
