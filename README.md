@@ -14,17 +14,17 @@
 - Back-End : Python, Django, Mysql, AWS(EC2, RDS, S3), boto3
 - 협업 툴 : GitHub, Trello, Slack
 
-## 구현 기능
-- 메인페이지 
-- 카카오 로그인
+## 프로젝트 내 구현된 기능
+아래 기능 중 저는 메인페이지, 카카오 소셜 로그인 기능 구현을 담당했습니다.
+- 메인페이지
+- 카카오 소셜 로그인
 - 전체 상품 페이지
 - 카테고리별 상품 페이지
 - 제품 상세 페이지
 - 제품 다중필터 검색 기능
 - 해당 제품의 리뷰 작성 기능
 - 리뷰 작성 시 boto3, AWS S3를 통한 이미지 등록 기능
-<br/>
-<br/>
+
 👇 메인페이지
 <img src="https://user-images.githubusercontent.com/80399821/164908962-1d913969-9789-4b60-a9d0-605d045a6c7e.gif" width="480" height="270" />
 <br/>
