@@ -1,4 +1,4 @@
-# Wevino 프로젝트
+# Old Vintage 프로젝트
 - 시연영상 : https://www.youtube.com/watch?v=ZKLUUm3uvxg
 - 와인 판매 및 추천 사이트 <a href="https://www.vivino.com/">비비노</a> 홈페이지의 컨셉과 비슷하게 아예 처음부터 구축해본 사이트
 - 프론트엔드 깃헙 주소 : https://github.com/wecode-bootcamp-korea/31-1st-Wesop-frontend
