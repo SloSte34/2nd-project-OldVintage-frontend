@@ -1,7 +1,7 @@
 # Old Vintage Project
 - 와인 판매 및 추천 사이트 <a href="https://www.vivino.com/">Vivino</a> 홈페이지의 컨셉과 비슷하게 제로베이스부터 구축해본 사이트
-- 구현 시연 영상 : [https://www.youtube.com/watch?v=ZKLUUm3uvxg](https://youtu.be/2ba5S6P-p7s)
-- Front-End GitHub Repository : https://github.com/wecode-bootcamp-korea/31-1st-Wesop-frontend
+- 구현 시연 영상 : https://youtu.be/2ba5S6P-p7s
+- Front-End GitHub Repository : https://github.com/wecode-bootcamp-korea/31-2nd-OldVintage-frontend
 - Back-End GitHub Repository : https://github.com/wecode-bootcamp-korea/31-2nd-OldVintage-backend
 
 ## 개발 기간 및 인원
